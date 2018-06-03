@@ -99,4 +99,4 @@ class Membro():
             await self.bot.send_message(ctx.message.channel, embed=embedperfil)
 
 
-bot.run('NDEzMDQzODk0NjM3Mjk3NjY0.DWc7ng.Fz8yh8O9VZSHWwnbU7QuL-OwNdM')
+bot.run(token)
